@@ -26,7 +26,7 @@ build/Release
 node_modules
 
 # Config files
-config.js
+#config.js
 
 #DS_Store files
 .DS_Store
