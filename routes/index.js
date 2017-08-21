@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res) {
-  res.render('index', { title: 'This is a change to my app. Angular, Node and Twitter API' });
+  res.render('index', { title: '+++ I am changing my app. Angular, Node and Twitter API' });
 });
 
 module.exports = router;
