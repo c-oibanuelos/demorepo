@@ -1,0 +1,66 @@
+
+
+
+https://706289540361.signin.aws.amazon.com/console
+
+
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem ec2-user@ec2-52-14-46-18.us-east-2.compute.amazonaws.com
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem ec2-user@ec2-13-59-61-158.us-east-2.compute.amazonaws.com
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem ubuntu@ec2-13-59-39-31.us-east-2.compute.amazonaws.com
+
+
+
+
+
+ssh -i /home/oscar_banuelos/devopsubuntu.pem root@ec2-18-220-133-3.us-east-2.compute.amazonaws.com
+
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem ubuntu@ec2-18-220-190-246.us-east-2.compute.amazonaws.com
+
+
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem ec2-user@ec2-18-220-195-168.us-east-2.compute.amazonaws.com
+
+
+docker commit -a "Oscar Banuelos &lt;c-oscar_banuelos@persistent.com&gt;" -m "node and express" 5fecc49c1d7f node-express:0.1
+
+
+5fecc49c1d7f 
+
+
+var express = require('express');
+var app = express();
+
+app.get('/',function(req,res) {
+  res.send("Hello World");
+});
+
+app.listen(4000);
+
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem ec2-user@ec2-52-15-175-121.us-east-2.compute.amazonaws.com
+
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem root@ec2-18-220-190-23.us-east-2.compute.amazonaws.com
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem ubuntu@ec2-18-220-189-30.us-east-2.compute.amazonaws.com
+
+
+
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem ubuntu@ec2-52-14-103-89.us-east-2.compute.amazonaws.com
+
+
+diff /lib/systemd/system/docker.service /etc/systemd/system/multi-user.target.wants/docker.service
+
+2072f418d31f4e85a5ab49eb8d75071a
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem ubuntu@ec2-52-15-82-183.us-east-2.compute.amazonaws.com
+
+
+
+
+ssh -i /home/oscar_banuelos/devopsmachine.pem ubuntu@ec2-18-220-101-234.us-east-2.compute.amazonaws.com

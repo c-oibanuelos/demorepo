@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /home/node-app/app
+git pull 
+npm restart

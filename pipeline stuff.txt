@@ -1,0 +1,57 @@
+LEO Map Fund Tracker to LP
+comm. w chris and check if data is comign in
+test sail interface
+
+consider how to pass pv from int to process to select one of 3 available paths, can be more than one
+check if entityId is the atribute we should be looking for when selecting the flow
+
+if no flow is selected end process
+
+check the db table to see if docs are available for the entity 
+
+
+can you tag code pushes to A User story??? jekins/github
+
+
+
+docker exec -it 1471ed6f2f19 /bin/bash
+
+docker run -d -p 8080:8080 -p 50000:50000 jenkins
+11daa5548b664fd28284470487638362
+
+
+docker run -p 49160:9090 -d coibanuelos/node-web-app
+
+
+The key fingerprint is:
+SHA256:4XSH1aB/il+8J54Jjw1DBXuy/cR1dMDwK8Z1JuukhcY jenkins@1471ed6f2f19
+The key's randomart image is:
++---[RSA 2048]----+
+|            ==..o|
+|           + +o..|
+|        o + + * =|
+|       o o = O Bo|
+|        S   E B o|
+|           = X o |
+|          . * + .|
+|           . O.+.|
+|            o.Bo |
++----[SHA256]-----+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDRYBsRdRFLhph5GLIzQ7SRfDLW2/MIKJsUhi6hje8FCELkk2GnMLL97tcTZHP7Q54zhtcRBprUhXDSZo+4xhK45CXg45KYo4v/QyBQjfuaMZBxzkWwL/ZCVLfyMynjEufCbPIqvwvdorauG4C1rAfos786mMAvRw++l+8CuKiDfZSRo9Hk2QM1LS9hBkeHQ80Z3obxLnXeym4/iSMmle2wqlFWtRen6Aj3odumwaT5/dmsG8p6o27TBKLhznWqxbhg253VYz0+0V1DvSKIcBs5wG/N0jriYUMst7VDsK4JzbcOEqO2HZ5cAJwcl26zbligEOo+Hj5O+8smiNgKMehH jenkins@1471ed6f2f19
+
+docker exec -it 18b6f4d2a58b /bin/bash
+
+
+SHA256:qPdqOnmCaqOtmWLwGXuHGpp1iyAZ5sGtF/jbgvL1aBk jenkins@18b6f4d2a58b
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVDbvw+bwMOSefMY6vLxluNyslYZi8Cx+p8wkyHSl5NwlUf3h1relrAFY9YPognUEixNPFag1HbCzo9YYm+ua1QFZoeAdiUjfBC2urvHTn/qwnUzVpZL4S7j3eGK74njx6yrK64ldl/3WGu7xvUsnb7t7X7o5s4AgJpTa1UFKk9kw1XUamMjgG1189NMvXDlHxxJjtHje7gs7u7CecMpnoh4TNKzQLfzNKdOTfwKjdbhMBHtrkcU6GPlaN2qgJdmSawb23ILkQserEbOKALuanUdOqyURjEwlkQaSmKb9QunDdx+rjaQ6c8qQ93uYRM+V+yiA+inzcq6bbyDBh/p9h jenkins@18b6f4d2a58b
+
+ssh jenkins@172.17.0.3
+
+
+172.17.0.2"
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDVDbvw+bwMOSefMY6vLxluNyslYZi8Cx+p8wkyHSl5NwlUf3h1relrAFY9YPognUEixNPFag1HbCzo9YYm+ua1QFZoeAdiUjfBC2urvHTn/qwnUzVpZL4S7j3eGK74njx6yrK64ldl/3WGu7xvUsnb7t7X7o5s4AgJpTa1UFKk9kw1XUamMjgG1189NMvXDlHxxJjtHje7gs7u7CecMpnoh4TNKzQLfzNKdOTfwKjdbhMBHtrkcU6GPlaN2qgJdmSawb23ILkQserEbOKALuanUdOqyURjEwlkQaSmKb9QunDdx+rjaQ6c8qQ93uYRM+V+yiA+inzcq6bbyDBh/p9h jenkins@172.17.0.2
